@@ -1,7 +1,7 @@
 Hi, I’m Byron 👋
 
 I'm a software engineer focused on building clean, user-friendly full-stack applications.
-I recently deleted my old GitHub (which had a bunch of school projects) to start fresh and build a more intentional portfolio here.
+I recently deleted my old GitHub to start fresh and build a more intentional portfolio here.
 
 You can reach me at bxr@byronxr.com
 
